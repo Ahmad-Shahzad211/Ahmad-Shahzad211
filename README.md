@@ -86,15 +86,9 @@ Focused on performance, clean architecture, and real-time systems.
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Shahzad211&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Shahzad211&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Shahzad211&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Shahzad211&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Shahzad211&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
