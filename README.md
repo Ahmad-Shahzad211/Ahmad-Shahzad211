@@ -10,8 +10,9 @@
 
 ## 🚀 About Me
 
-Full Stack Developer building scalable web applications and AI-integrated platforms.
-Focused on performance, clean architecture, and real-time systems.
+Full-Stack Web Developer and AI Integrator with a strong foundation in computer science and over two years of hands-on experience building scalable web applications. I specialize in modern technologies such as Next.js, Tailwind CSS, RESTful APIs, and MongoDB, focusing on creating performant and production-ready systems.
+
+I have experience developing AI-integrated web platforms and implementing real-time features using WebSockets to deliver responsive and seamless user experiences. I enjoy solving complex problems, building efficient systems, and exploring ways to combine modern web technologies with intelligent workflows.
 
 📍 Lahore, Pakistan
 📧 [mahmad.ss2103@gmail.com](mailto:mahmad.ss2103@gmail.com)
