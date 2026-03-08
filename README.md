@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Integrator;Next.js+Engineer;Real-Time+Systems+Builder;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Integrator;Next.js+Engineer;Real-Time+Systems+Builder;Building+Scalable+Web+Applications" />
 
 </p>
 
@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-💻 **Full Stack Developer** focused on building scalable and production-ready web applications.
-⚡ Experienced in **AI-integrated platforms and real-time systems using WebSockets**.
-🎯 Passionate about clean architecture, performant UI, and impactful technology.
+💻 **Full Stack Developer** building scalable and production-ready applications.
+⚡ Experienced with **AI-integrated platforms and real-time systems using WebSockets**.
+🎯 Passionate about clean architecture, performance optimization, and impactful technology.
 
 📍 Lahore, Pakistan
 📧 [mahmad.ss2103@gmail.com](mailto:mahmad.ss2103@gmail.com)
@@ -21,47 +21,125 @@
 
 # 🧠 Tech Stack
 
-### Programming Languages
+## Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp" />
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45"/><br>JavaScript
+</td>
 
-### Frontend Development
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="45"/><br>TypeScript
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,html,css" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" title="C++" height="45"/><br>C++
+</td>
+</tr>
+</table>
 
-### Backend Development
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+## Frontend Development
 
-### Databases
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="45"/><br>Next.js
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" title="React.js" height="45"/><br>React
+</td>
 
-### Tools & Platforms
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vue" title="Vue.js" height="45"/><br>Vue
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,vercel,postman" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="45"/><br>Tailwind
+</td>
 
-### State Management
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" height="45"/><br>HTML
+</td>
 
-Redux • Vuex
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" height="45"/><br>CSS
+</td>
+</tr>
+</table>
 
-### Specializations
+---
+
+## Backend Development
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="45"/><br>Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" height="45"/><br>Express
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=socketio" title="WebSockets / Socket.io" height="45"/><br>WebSockets
+</td>
+</tr>
+</table>
+
+---
+
+## Databases
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="45"/><br>MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="45"/><br>MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="45"/><br>Firebase
+</td>
+</tr>
+</table>
+
+---
+
+## Tools & Platforms
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" title="Git" height="45"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="45"/><br>Vercel
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" height="45"/><br>Postman
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ Specializations
 
 ✔ Full Stack Web Development
 ✔ AI Integration in Web Applications
 ✔ Real-Time Systems (WebSockets / Socket.io)
 ✔ REST API Development
-✔ Scalable Frontend Architectures
+✔ High-Performance Frontend Architecture
 
 ---
 
@@ -71,20 +149,20 @@ Redux • Vuex
 
 **May 2025 – Present**
 
-• Working on **AI-integrated web platforms**
-• Building production-grade features using **Next.js, Tailwind, and GSAP**
-• Developing scalable UI systems and modern web architectures
+• Building **AI-integrated web platforms**
+• Using **Next.js, Tailwind CSS, GSAP**
+• Developing scalable production systems
 
 ---
 
-### Senior Frontend Developer — MyPath (Startup Founding Team)
+### Senior Frontend Developer — MyPath
 
 **Apr 2025 – Present**
 
-• Led frontend development for an **AI workflow platform**
+• Founding team member at startup
+• Led frontend development for **AI workflow platform**
 • Built reusable UI systems using **Next.js + Tailwind**
-• Implemented **real-time features using Socket.io**
-• Optimized performance across multiple devices
+• Implemented **real-time communication using Socket.io**
 
 ---
 
@@ -94,11 +172,11 @@ Redux • Vuex
 
 Worked on multiple enterprise platforms:
 
-**WKND** – Vendor Management System
-**Room Round** – Employee onboarding platform
-**Broker** – Real estate operations platform
+* **WKND** — Vendor management platform
+* **Room Round** — Employee onboarding system
+* **Broker** — Real estate operations platform
 
-Tech used:
+Technologies used:
 
 React.js • Vue.js • Redux • Vuex
 
@@ -108,48 +186,42 @@ React.js • Vue.js • Redux • Vuex
 
 ### 🤖 AI Workflow Platform – MyPath
 
-AI-powered platform integrating **ML workflows with modern UI experiences**
+AI-powered platform integrating **ML workflows with animated UX**
 
-Tech:
-
-Next.js
-Tailwind CSS
-GSAP
-Socket.io
+Tech Stack
+Next.js • Tailwind • GSAP • Socket.io
 
 ---
 
 ### 🏢 Room Round
 
-Employee onboarding and workflow automation platform.
+Employee onboarding and workflow automation system.
 
-Features:
-
-• Task management system
-• Role-based workflows
-• Template management
+Features
+• Task management
+• Template workflows
+• Role-based automation
 
 ---
 
 ### 🏡 Broker Platform
 
-Real estate operations system for brokers and teams.
+Real estate operations management platform.
 
-Features:
-
-• Team & organization management
-• Operational workflow automation
+Features
+• Team management
+• Organizational workflows
+• Operational dashboards
 
 ---
 
 ### 💬 Social Networking Application (C++)
 
-Built a **DSA & OOP based social networking system** in C++.
+DSA & OOP-based social networking system.
 
-Focus:
-
-• Optimized user interaction
-• Efficient data management
+Focus
+• Optimized user interactions
+• Efficient data structures
 
 ---
 
@@ -166,16 +238,6 @@ Focus:
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Shahzad211&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ahmad-Shahzad211/Ahmad-Shahzad211/output/github-contribution-grid-snake.svg" />
 
 </p>
 
@@ -198,5 +260,5 @@ https://www.mypath.one/
 
 ⚡ AI-Integrated Web Applications
 ⚡ Scalable Full-Stack Architectures
-⚡ Real-Time Systems using WebSockets
+⚡ Real-Time Systems with WebSockets
 ⚡ High-Performance Frontend Engineering
